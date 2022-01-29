@@ -48,7 +48,7 @@ Enter: |
 - String, Char, Const Char Lowercase - LOWER(...) - return string; ( If yout want return another type use CHAR(LOWER(...)),CONST_CHAR(LOWER(...)) )
 
 ## Contact
-###If you want to contact me
+### If you want to contact me
 ```
 Mail: rafael.jr077@gmail.com
 ```
