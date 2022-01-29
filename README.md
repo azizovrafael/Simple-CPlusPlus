@@ -47,5 +47,8 @@ Enter: |
 - String, Char, Const Char Uppercase - UPPER(...) - return string; ( If yout want return another type use CHAR(UPPER(...)),CONST_CHAR(UPPER(...)) )
 - String, Char, Const Char Lowercase - LOWER(...) - return string; ( If yout want return another type use CHAR(LOWER(...)),CONST_CHAR(LOWER(...)) )
 
-version 1
-
+## Contact
+###If you want to contact me
+```
+Mail: rafael.jr077@gmail.com
+```
