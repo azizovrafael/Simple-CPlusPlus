@@ -12,13 +12,13 @@ cd {your project}
 
 Second Git Clone:
 ```
-git clone https://github.com/azizovrafael/C-Build-In-Functions
+git clone https://github.com/azizovrafael/Simple-CPlusPlus
 ```
 
 Include your file:
 ```
 ...
-#include "C-Build-In-Functions/router.h"
+#include "Simple-CPlusPlus/router.h"
 ...
 ```
 
