@@ -49,6 +49,4 @@ Enter: |
 
 ## Contact
 ### If you want to contact me
-```
-Mail: rafael.jr077@gmail.com
-```
+Mail: ``` rafael.jr077@gmail.com```
